@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#startbtn,#objectsDetected,#objectStatus{
+    font-size: 18px;
+
+}
+.footer{
+    position: fixed;
+    background-color: blueviolet;
+    color: blanchedalmond;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-size: 15px;
+}
+canvas{
+    border: 2px solid azure;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px burlywood;
+}
